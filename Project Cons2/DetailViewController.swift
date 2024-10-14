@@ -32,7 +32,7 @@ class DetailViewController: UIViewController {
             
             
         }
-        //imageView.backgroundColor = UIColor.lightGray
+        imageView.backgroundColor = UIColor.lightGray
         
         
         
